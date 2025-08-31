@@ -2,7 +2,7 @@
 - 👀 I’m Full-Stack Web Developer and Webflow Expert.
 - 🌱 I’m currently learning BS Computer Science.
 - 💞️ I’m looking to collaborate on Upwork here https://www.upwork.com/freelancers/~0179aa9edf4262ab4c
-- 📫 How to reach me obaidj.online
+- 📫 How to reach me obaidj.webflow.io
 
 <!---
 Obaidjaved475/Obaidjaved475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
